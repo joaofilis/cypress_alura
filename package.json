@@ -1,0 +1,23 @@
+{
+  "name": "primeiro-projeto",
+  "version": "1.0.0",
+  "description": "Primeiro projeto com Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joaofilis/cypress.git"
+  },
+  "author": "Joao Vitor Filismino",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joaofilis/cypress/issues"
+  },
+  "homepage": "https://github.com/joaofilis/cypress#readme",
+  "devDependencies": {
+    "cypress": "^10.4.0",
+    "mochawesome": "^7.1.3"
+  }
+}
