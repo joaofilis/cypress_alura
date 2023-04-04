@@ -13,6 +13,7 @@ module.exports = defineConfig({
       "json": false,
       "timestamp": "mmddyyyy_HHMMss",
     },
-    projectId: "eqhq37"
+    "projectId": "eqhq37",
+    "baseUrl": "https://alura-fotos.herokuapp.com"
   },
 });
